@@ -53,6 +53,7 @@ public class Main {
         System.out.println(liczba1 * liczba2);
         System.out.println(liczba2/liczba1);
         System.out.println(liczba1%liczba2);
+        System.out.println(liczba1%liczba2);
 
 
 
